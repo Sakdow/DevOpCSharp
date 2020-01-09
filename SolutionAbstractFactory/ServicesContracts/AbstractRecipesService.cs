@@ -9,6 +9,5 @@ namespace ServicesContracts
 {
     public abstract class AbstractRecipesService
     {
-        public abstract List<Recipe> GetRecipes();
-    }
+        public abstract List<Recipe> GetRecipes();    }
 }

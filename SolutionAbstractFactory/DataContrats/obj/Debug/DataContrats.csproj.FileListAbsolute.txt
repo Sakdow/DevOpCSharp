@@ -8,3 +8,8 @@ C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\bi
 C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.csprojAssemblyReference.cache
 C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.dll
 C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.pdb
+C:\Users\Timothée\source\repos\DevOpCSharp\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.dll
+C:\Users\Timothée\source\repos\DevOpCSharp\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.pdb
+C:\Users\Timothée\source\repos\DevOpCSharp\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.csprojAssemblyReference.cache
+C:\Users\Timothée\source\repos\DevOpCSharp\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.dll
+C:\Users\Timothée\source\repos\DevOpCSharp\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.pdb

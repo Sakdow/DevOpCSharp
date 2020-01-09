@@ -48,10 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Factory.cs" />
     <Compile Include="ObjectRecipeService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XmlRecipeService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="snk3.snk" />
