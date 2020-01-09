@@ -1,0 +1,16 @@
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\bin\Debug\ServicesContracts.dll
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\bin\Debug\ServicesContracts.pdb
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.csprojAssemblyReference.cache
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.dll
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.pdb
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\bin\Debug\DataContrats.dll
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\bin\Debug\DataContrats.pdb
+C:\Users\frede\source\repos\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.csproj.CopyComplete
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\bin\Debug\ServicesContracts.dll
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\bin\Debug\ServicesContracts.pdb
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\bin\Debug\DataContrats.dll
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\bin\Debug\DataContrats.pdb
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.csprojAssemblyReference.cache
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.csproj.CopyComplete
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.dll
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\ServicesContracts\obj\Debug\ServicesContracts.pdb

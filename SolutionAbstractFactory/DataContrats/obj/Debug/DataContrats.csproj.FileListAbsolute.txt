@@ -1,0 +1,10 @@
+C:\Users\frede\source\repos\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.dll
+C:\Users\frede\source\repos\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.pdb
+C:\Users\frede\source\repos\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.csprojAssemblyReference.cache
+C:\Users\frede\source\repos\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.dll
+C:\Users\frede\source\repos\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.pdb
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.dll
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\bin\Debug\DataContrats.pdb
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.csprojAssemblyReference.cache
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.dll
+C:\Users\5goup\OneDrive\Documents\dotNet\SolutionAbstractFactory\DataContrats\obj\Debug\DataContrats.pdb
